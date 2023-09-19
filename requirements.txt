@@ -1,0 +1,4 @@
+gdown==3.7.4
+torch
+torchvision
+scikit-image==0.14.2
