@@ -63,16 +63,7 @@ and for the compatibility task with:
 
 In both cases, K is the maximum number of neighbours used around a node. For Polyvore, the flag `--resampled` can be set to use the resampled version of the task, which is harder.
 
-## Reference
-Please cite our paper as:
 
-    @InProceedings{Cucurull_2019_CVPR,
-      author = {Cucurull, Guillem and Taslakian, Perouz and Vazquez, David},
-      title = {Context-Aware Visual Compatibility Prediction},
-      booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-      month = {June},
-      year = {2019}
-    }
 
 
 ## License
